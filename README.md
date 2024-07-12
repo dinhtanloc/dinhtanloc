@@ -12,15 +12,17 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=dinhtanloc&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 </div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
 </div>
+<div align="center">
+<!--   <img src=""https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=4000&pause=1000&color=27E1FB&center=true&vCenter=true&multiline=true&random=false&width=500&height=150&lines=Hello+everyone%F0%9F%91%8B;My+name+is+Loc+Tan+Dinh;I+am+a+final-year+student+at+UEH%2C+Vietnam" width="500" height="150" alt=""/> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=4000&pause=1000&color=27E1FB&center=true&vCenter=true&multiline=true&random=false&width=500&height=150&lines=Hello+everyone%F0%9F%91%8B;My+name+is+Loc+Tan+Dinh;I+am+a+final-year+student+at+UEH%2C+Vietnam" alt="Typing SVG" /></a>
+</div>
+
 
 
 ### :man_technologist: About Me :
