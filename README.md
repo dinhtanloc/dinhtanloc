@@ -1,22 +1,26 @@
-<div id="header" align="center" style="border: 2px solid white; padding: 10px; margin-bottom: 10px;">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.facebook.com/profile.php?id=100010680972124">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/%C4%91inh-t%E1%BA%A5n-l%E1%BB%99c-104606277/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=dinhtanloc&style=flat-square&color=blue" alt=""/>
+  <h1>
+<!--     hey there -->
+<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=3000&pause=300&color=27E1FB&center=true&vCenter=true&random=false&width=500&lines=Hello+everyone%F0%9F%91%8B;My+name+is+Loc+Tan+Dinh;I+am+a+final-year+student+at+UEH%2C+Vietnam" alt="Typing SVG" /></a>
+  </h1>
 </div>
 
 <div align="center">
 <!--   <img src=""https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=4000&pause=1000&color=27E1FB&center=true&vCenter=true&multiline=true&random=false&width=500&height=150&lines=Hello+everyone%F0%9F%91%8B;My+name+is+Loc+Tan+Dinh;I+am+a+final-year+student+at+UEH%2C+Vietnam" width="500" height="150" alt=""/> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=4000&pause=1000&color=27E1FB&center=true&vCenter=true&multiline=true&random=false&width=500&height=150&lines=Hello+everyone%F0%9F%91%8B;My+name+is+Loc+Tan+Dinh;I+am+a+final-year+student+at+UEH%2C+Vietnam" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
