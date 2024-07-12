@@ -31,17 +31,17 @@
 
 
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+## :man_technologist: About Me :
+I am a student majoring in Technology and Innovation at UEH University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. My expertise is in Data Analysis and Processing along with related fields. My projects focus on how to apply technology to various aspects of economics.
+- :telescope: I am currently working as a research assistant, writing scientific papers and developing practical application projects.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am seeking an internship opportunity in the data field, such as Data Analyst, Data Scientist, or Data Engineer, in Vietnam.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LocDinh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91inh-t%E1%BA%A5n-l%E1%BB%99c-104606277/)
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -60,7 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dinhtanloc&theme=blue-navy)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtanloc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
