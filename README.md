@@ -60,15 +60,15 @@ I am a student majoring in Technology and Innovation at UEH University <img src=
 
 | IntelliJ | JavaFx | SceneBuilder | DataGrip | MySQL |
 |----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="70" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/>|  <img src="https://img-blog.csdnimg.cn/6bc4cba6b3874e068bd49a1ed17cc9fc.png" title="Statsmodels" alt="Statsmodels" width="95" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="70" height="55"/>|  <img src="./assets/javafx.png" title="JavaFx" alt="JavaFx" width="55" height="55"/>| <img src="./assets/scenebuilder.png" title="SceneBuilder" alt="SceneBuilder" width="55" height="55"/>| <img src="./assets/Datagrip.png" title="Datagrip" alt="Datagrip" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
 
 
 
 ### My tools for Data Analyst & Visualisation:
 
-| Google Colab | Spyder | PowerBI | Tableau | Spark | BigQuery | Azure |
-|----------|----------|----------|----------|----------|----------|----------|
-|<img src="./assets/colab.png" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
+| Google Colab | Spyder | Looker | PowerBI | Tableau | Spark | BigQuery | Azure |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="./assets/colab.png" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="./assets/spyder.png" title="spyder" alt="spyder" width="55" height="55"/>|<img src="./assets/looker.png" title="Looker" alt="Looker" width="55" height="55"/>|<img src="./assets/bi.png" title="PowerBI" alt="PowerBI" width="55" height="55"/>|<img src="./assets/tableau.png" title="Tableau" alt="Tableau" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="./assets/bigquery.png" title="BigQuery" alt="BigQuery" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="azure" alt="azure" width="55" height="55"/>
 
   
 ### Database Management System:
