@@ -60,7 +60,7 @@ I am a student majoring in Technology and Innovation at UEH University <img src=
 
 | IntelliJ | JavaFx | SceneBuilder | DataGrip | MySQL |
 |----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="70" height="55"/>|  <img src="./assets/javafx.png" title="JavaFx" alt="JavaFx" width="55" height="55"/>| <img src="./assets/scenebuilder.png" title="SceneBuilder" alt="SceneBuilder" width="55" height="55"/>| <img src="./assets/Datagrip.png" title="Datagrip" alt="Datagrip" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
+|  <img src="./assets/intelliJidea.png" title="IntelliJ"  alt="IntelliJ" width="70" height="55"/>|  <img src="./assets/javafx.png" title="JavaFx" alt="JavaFx" width="55" height="55"/>| <img src="./assets/scenebuilder.png" title="SceneBuilder" alt="SceneBuilder" width="55" height="55"/>| <img src="./assets/Datagrip.png" title="Datagrip" alt="Datagrip" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
 
 
 
