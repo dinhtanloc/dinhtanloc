@@ -102,17 +102,9 @@ I am a student majoring in Technology and Innovation at UEH University <img src=
 </p>
 
 
----
 
 
 
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dinhtanloc&show_icons=true&theme=vision-friendly-dark">
-
-</p>
-
-### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
