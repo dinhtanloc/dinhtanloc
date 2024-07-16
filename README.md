@@ -66,7 +66,7 @@ I am a student majoring in Technology and Innovation at UEH University <img src=
 
 ### My tools for Data Analyst & Visualisation:
 
-| Google Colab | Spyder | Looker | PowerBI | Tableau | Spark | BigQuery | Azure |
+| Colab | Spyder | Looker | PowerBI | Tableau | Spark | BigQuery | Azure |
 |----------|----------|----------|----------|----------|----------|----------|----------|
 |<img src="./assets/colab.png" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="./assets/spyder.png" title="spyder" alt="spyder" width="55" height="55"/>|<img src="./assets/looker.png" title="Looker" alt="Looker" width="55" height="55"/>|<img src="./assets/bi.png" title="PowerBI" alt="PowerBI" width="55" height="55"/>|<img src="./assets/tableau.png" title="Tableau" alt="Tableau" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="./assets/bigquery.png" title="BigQuery" alt="BigQuery" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="azure" alt="azure" width="55" height="55"/>
 
