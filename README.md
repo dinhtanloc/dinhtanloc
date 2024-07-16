@@ -101,8 +101,8 @@ I am a student majoring in Technology and Innovation at UEH University <img src=
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=dinhtanloc&theme=blue-navy&hide_border=true&border_radius=5&card_width=800">
   
 <p>
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dinhtanloc&show_icons=true&theme=radical">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtanloc&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=dinhtanloc&show_icons=true&theme=radical">
+  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtanloc&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
   
 </p>
 
